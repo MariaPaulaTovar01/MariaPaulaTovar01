@@ -1,6 +1,4 @@
-## Hola 👋
-
-# 👋 Soy Paula  
+## 👋 Soy Paula  
 
 🎓 **Estudiante de Ingeniería en Informática** | 💻 **Desarrolladora Frontend** | 📊 Aspirante a **Analista de Datos**  
 
