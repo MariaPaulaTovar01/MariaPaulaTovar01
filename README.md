@@ -18,8 +18,8 @@ Actualmente busco oportunidades de práctica donde pueda aportar en áreas de **
 ## 🛠️ Stack Tecnológico  
 
 ### 💻 Backend y Desarrollo  
-- **Lenguajes**: Java, Python, JavaScript, TypeScript  
-- **Frameworks**: Spring Boot, Node.js  
+- **Lenguajes**: Java, Python, JavaScript, TypeScript, PHP 
+- **Frameworks**: Spring Boot, Node.js, Laravel
 - **Enfoque**: Desarrollo de aplicaciones CRUD, lógica de negocio e integración con bases de datos y APIs REST  
 
 ---
