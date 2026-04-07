@@ -1,4 +1,4 @@
-## 👋 Soy Paula  
+## 👋 Hola Mundo, Soy Paula  
 
 🎓 Estudiante de Ingeniería Informática (9° semestre)  
 💻 Perfil: Infraestructura TI | Backend | Desarrollo de Software  
@@ -50,7 +50,8 @@ Actualmente busco oportunidades de práctica donde pueda aportar en áreas de **
 
 - 🌟 **[Dashboard de Analisís ](https://github.com/MariaPaulaTovar01/Proyecto-Herencia-Verde.git)**: Dashboard responsivo con Bootstrap, TypeScript e integración de APIs.  
 - 🌟 **[Pagina web Negocio](https://github.com/MariaPaulaTovar01/ProyectoManila.git)**: Proyecto inicial orientado a la creación de páginas con llamado a API externa.  
-- 🌟 **[Reestructuración a página](https://github.com/MariaPaulaTovar01/Proyecto_SC.git)**: Proyecto orientado a la mejora estructural de la página web de la empresa Software Colombia.  
+- 🌟 **[Reestructuración a página](https://github.com/MariaPaulaTovar01/Proyecto_SC.git)**: Proyecto orientado a la mejora estructural de la página web de la empresa Software Colombia.
+- 🌟 **[Sistema Escolar](https://github.com/MariaPaulaTovar01/sistema-escolar.git)**: Proyecto de sistema pequeño de registro y gestión de estudiantes, profesores y materias para la asignatura de Computación en la Nube.
 
 ---
 
