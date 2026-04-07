@@ -1,28 +1,48 @@
 ## 👋 Soy Paula  
 
-🎓 **Estudiante de Ingeniería en Informática** | 💻 **Desarrolladora Frontend** | 📊 Aspirante a **Analista de Datos**  
+🎓 Estudiante de Ingeniería Informática (9° semestre)  
+💻 Perfil: Infraestructura TI | Backend | Desarrollo de Software  
 
 ---
 
 ## 🚀 Sobre mí  
-- 🎯 Apasionada por construir **aplicaciones web modernas y responsivas**.  
-- 🌱 Actualmente enfocada en el desarrollo **Frontend** con **Angular, Bootstrap, JavaScript y TypeScript**.  
-- 📊 Interesada en ampliar mis conocimientos en **Análisis de Datos**: SQL, bases de datos relacionales y no relacionales, y herramientas de visualización.  
-- 🔍 Siempre en constante aprendizaje y buscando oportunidades para crecer profesionalmente.  
+
+Soy estudiante de Ingeniería Informática con formación en desarrollo de software, bases de datos y administración de sistemas. Me interesa especialmente el área de **infraestructura TI**, incluyendo configuración de redes, administración de servidores y entornos virtualizados.
+
+Complemento este enfoque con conocimientos en **desarrollo backend**, lo que me permite entender e interactuar con sistemas de forma integral, desde la lógica de negocio hasta su despliegue y funcionamiento.
+
+Actualmente busco oportunidades de práctica donde pueda aportar en áreas de **infraestructura, soporte TI o desarrollo backend**, adaptándome a diferentes necesidades del entorno. 
 
 ---
 
 ## 🛠️ Stack Tecnológico  
 
-### 🌐 Frontend  
-- **Frameworks & Librerías**: Angular, Bootstrap  
-- **Lenguajes**: JavaScript (ES6+), TypeScript  
-- **Estilos**: CSS3, SCSS, Diseño Responsivo  
+### 💻 Backend y Desarrollo  
+- **Lenguajes**: Java, Python, JavaScript, TypeScript  
+- **Frameworks**: Spring Boot, Node.js  
+- **Enfoque**: Desarrollo de aplicaciones CRUD, lógica de negocio e integración con bases de datos y APIs REST  
 
-### 🗄️ Datos y Análisis (Ruta de Aprendizaje)  
-- **Bases de datos**: MySQL, MongoDB  
-- **Lenguaje de consultas**: SQL, R
-- **Herramientas de visualización**: Power BI, Tableau  
+---
+
+### 🌐 Frontend  
+- **Frameworks**: Angular, React (básico)  
+- **Lenguajes**: JavaScript, TypeScript  
+- **Estilos**: CSS3, Tailwind, Bootstrap  
+- **Enfoque**: Desarrollo de interfaces responsivas y consumo de APIs  
+
+---
+
+### 🗄️ Bases de Datos  
+- **Relacionales**: MySQL, PostgreSQL, SQLite  
+- **Lenguaje**: SQL (consultas, joins, estructura básica)  
+
+---
+
+### ⚙️ Infraestructura y Herramientas  
+- Linux (comandos y gestión básica)  
+- Máquinas virtuales  
+- Configuración básica de redes  
+- Git y GitHub  
 
 ---
 
@@ -50,7 +70,8 @@
 ---
 
 ## 📫 Contacto  
-- ✉️ Correo: mppt0919@gmail.com
+- ✉️ mppt0919@gmail.com
+- 🔗 LinkedIn: www.linkedin.com/in/maria-paula-parga-tovar-69324834a
 
 ---
 ⭐️ De [Paula](https://github.com/MariaPaulaTovar01/MariaPaulaTovar01)  
